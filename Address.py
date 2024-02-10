@@ -1,6 +1,6 @@
 class Address:
 
-    def __init__(seif, index, city, street, house, room):
+    def __init__(self, index, city, street, house, room):
         self.index = index
         self.city = city
         self.street = street
